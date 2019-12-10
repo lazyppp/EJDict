@@ -4500,7 +4500,7 @@ curricular	教育(教科)課程の
 curriculum	(学校の)教科課程
 curriculum vitae	履歴書
 currish	野卑な;のら犬のような
-curry	〈U〉カレー粉 / UU〉〈C〉カレー料理
+curry	〈U〉カレー粉 / 〈U〉〈C〉カレー料理
 curry	〈馬〉'を'くしで手入れする / 〈なめし皮〉'を'仕上げる
 curry powder	カレー粉
 currycomb	(鉄製の)馬ぐし / …‘に'馬ぐしをかける
