@@ -34,7 +34,7 @@ face flannel	=washcloth
 face fungus	男性のひげ
 face lifting	(しわ・たるみを取る)顔面整形 / (建物などの)外装直し
 face pack	美顔用パック
-face powder	おもしろい
+face powder	おしろい
 face value	(証券などの)額面価格 / 表むきの価値(意味)
 face-off	(アイスホッケーで)フェースオフ(向かい合っての試合開始) / 《話》対決
 face-saver	人の顔を立てるもの(事,人)
