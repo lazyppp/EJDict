@@ -194,7 +194,7 @@ abstainer	節制する人,(特に)禁酒する人
 abstemious	(飲食物・享楽を)慎む,節制する;(食事が)節約した
 abstention	(…を)節制すること,控えること《+『from』+『名』(do『ing』)》 / (投票の)棄権
 abstinence	(特に宗教的な理由による)(飲食の)禁欲,節制《+『from』+『名』(do『ing』)》
-abstinent	節酒する;禁欲的な
+abstinent	節制した;禁欲的な
 abstr.	abstract
 abstract	『抽象的な』 / 理論的な,観念的な / (美術において)抽象派の / 〈U〉抽象 / 〈C〉抜粋,摘要(summary) / 〈C〉抽象美術作品 / (いくつかのものから)〈ある概念〉'を'抽象する,抽出する《+『名』+『from』+『名』》 / 〈本・スピーチなど〉'を'要約する(summarize),抜粋する / (…から)〈金属など〉'を'抽出する,分離する《+『名』+『from』+『名』》
 abstract expressionism	(絵画の)抽象表現主義
