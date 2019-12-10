@@ -1605,7 +1605,7 @@ hovercraft	ホーバークラフト(水面・地面から機体を浮かせて�
 how	『どんなふうに』,どんな方法で,どうゆう手段で / 《通例形容詞・副詞を伴って》『どれほど』,どの程度,どのくらい / 『どんなふうで』,どんなぐあで / 《しばしばHow is (comes) it…?の形で》『なぜ』,どんな理由で / 《不定詞を伴って》…する方法・《感嘆文で》『なんと』,どんなに / 《名詞節を導いて》…である次第,の方法 / 《副詞節を導いて》どうにでも…ように(in anyway in which) / 方法,仕方
 how-do-you-do	困ったこと(立場)
 how-to	手引きの,案内の
-howbeit	…とはいえ(nevertheless) / …だけれど(although)
+howbeit	とはいえ(nevertheless) / …だけれど(although)
 howdah	(象の背に載せて人が乗る天蓋(てんがい)付きの)かご
 howdy	よう,やあ(あいさつの表現)(hello, how do you do?)
 howe'er	=however
