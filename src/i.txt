@@ -359,7 +359,7 @@ impious	神を敬わない,不信心な
 impish	小悪魔(imp)のような,いたずらな,茶目っ気のある
 implacable	なだめるのが難しい,満足させることができない
 implacably	なだめがたく,執念ぶかく,容赦せずに
-implant	(心・人に)〈思想・感情など〉‘を'刻み込む,植え付ける《+『名』+『in』(『into』)+『名』》;(思想 / ・感情などを)〈心・人〉‘に'刻み込む,植え付ける《+『名』+『with』+『名』》 / (体に)〈組織・器具など〉‘を'はめ込む,移植する《+『名』+『in』(『into』)+『名』》
+implant	(心・人に)〈思想・感情など〉‘を'刻み込む,植え付ける《+『名』+『in』(『into』)+『名』》;(思想・感情などを)〈心・人〉‘に'刻み込む,植え付ける《+『名』+『with』+『名』》 / (体に)〈組織・器具など〉‘を'はめ込む,移植する《+『名』+『in』(『into』)+『名』》
 implausible	(話・アリバイが)信じがたい,ありそうもない
 implement	(通例簡単な)『道具』,器具 / …‘を'履行する,果たす(execute)
 implicate	〈証言・容疑者などが〉(犯罪などに)〈他の人〉‘を'巻き込む,関係させる《+『名』+『in』+『名』》
@@ -461,7 +461,7 @@ in extremis	窮極に / 死に臨んで
 in,in.	inch[es]
 in loco parentis	親の立場で,親の代りに
 in memoriam	(碑文などで)…を記念して,追悼して
-in one's good graces	（に）気に入られて・好意を持たれて・= in the good graces of one
+in one's good graces	（に）気に入られて,好意を持たれて / = in the good graces of one
 in re	…に関して,の件について
 in residence	学内に)居住の,(官邸・公邸)住まいの
 in situ	もとの場所に,本来の場所に
@@ -478,7 +478,7 @@ inability	無力,無能,不能
 inaccessible	(場所・人が)近づきにくい,寄りつきにくい;(物が)手に入りにくい《+『to』+『名』》
 inaccuracy	〈U〉不正確 / 〈C〉誤り
 inaccurate	不正確な / まちがった
-inaction	不活動・怠惰・無活動・無為
+inaction	不活動;怠惰,無活動,無為
 inactivate	…‘を'不活発にする / 〈血清など〉‘を'不活性化する
 inactive	活動しない,働いていない;活発でない
 inadequacy	(…に)不十分,不適当 / (…に)不十分なところ,不適当なところ《+『to』(『for』)+『名』》
@@ -751,7 +751,7 @@ indicia	(料金別納郵便物などの)証印
 indict	(…の罪で)…‘を'起訴する,共発する《+『名』+『for(on)』+『名』》
 indictable	起訴(告発)されるべき
 indictment	〈U〉起訴,告発 / 〈C〉起訴状
-Indies	=East In・dies / =West Indies
+Indies	=East Indies / =West Indies
 indifference	(…に対する)『無関心』,むとんじゃく,冷淡・《+『to』(『toward』)+『名』》 / (…にとって)重要でないこと,ささいなこと《+『to』+『名』》
 indifferent	(人が)『関心のない』,むとんじゃくな,冷淡な / よくも悪くもない,平均的な
 indifferentism	宗教無差別主義(方針,政策) / (善悪・真偽などに対する)むとんじゃく
@@ -1209,8 +1209,8 @@ insolvable	解決できない,不可解な
 insolvency	支払い不能,破産
 insolvent	支払い不能の,破産した
 insomnia	不眠[症]
-insomniac	不眠症患者・不眠症の
-insomuch	…の程度まで, ...ほどに (as, that)・ …の故に (as)
+insomniac	不眠症患者 / 不眠症の
+insomuch	…の程度まで, ...ほどに (as, that) /  …の故に (as)
 insouciance	のんき,むとんじゃく
 insouciant	のんきな,むとんじゃくな
 insp.	inspected / inspector
@@ -1261,7 +1261,7 @@ instructional	教育の,教育的な
 instructive	『ためになる』,
 instructor	教師,指導者 / 《米》(大学の)専任講師(assistant professorの下位の職)
 instructorship	講師の身分(地位)
-instrument	(主として精密な)『器具』,器械,計器・(また『musical instrument』)『楽器』) / 手段,方便（means）;(人の)手先 / 法律文書(証書・遺書・協定書・約束手形など)
+instrument	(主として精密な)『器具』,器械,計器 / (また『musical instrument』)『楽器』) / 手段,方便（means）;(人の)手先 / 法律文書(証書・遺書・協定書・約束手形など)
 instrumental	役立つ;(…をするのに)役立つ《+『in』 do『ing』》 / 楽器の,器楽の
 instrumentalist	器楽奏者
 instrumentality	〈U〉役に立つこと / 〈C〉手段,尽力
@@ -1322,7 +1322,7 @@ intelligently	理知的に,そう明に
 intelligentsia	知識階級,インテリゲンチャ
 intelligibility	よく理解できること,明りょうなこと
 intelligible	よく理解できる,分かりやすい,明りょうな(clear);(…に)よく理解できる《+『to』+『名』》
-intelligibly	分かりやすく・明りょうに
+intelligibly	分かりやすく / 明りょうに
 intemperance	不節制;暴飲[暴食]
 intemperate	不節制な,度を過ごした;大酒を飲む / (気候が)厳しい(extreme)
 intend	…‘を'『意図する』,‘の'つもりである / (特定の目標に)…‘を'向ける,あてる《+『名』+『for』(『as』)+『名』》 / (…で)…‘を'表そうとする《+『by』+『名』》
@@ -1379,7 +1379,7 @@ interest group	(特に,同業の利益を守るための)利益団体
 interested	『興味』(『関心』)『のある』,関心(興味)を示す
 interesting	(物事が)『興味を起こさせる』,おもしろい
 interestingly	おもしろく;おもしろいことには
-interface	中間面,界面(2物体・空間の接触面)・（異なる物の）境界面, 中間共通面; 共有領域; （コンピュータ）インタフェース
+interface	中間面,界面(2物体・空間の接触面) / （異なる物の）境界面, 中間共通面; 共有領域; （コンピュータ）インタフェース
 interfaith	異宗派間の
 interfere	(…に)『干渉する』,口出しをする(meddle)《+『in』(with』)+『名』)『wh-節』(『句』,do『ing』)》 / (仕事・状況などの)『妨げとなる』,邪魔になる《+『with』+『名』(do『ing』)》
 interference	〈U〉(…への)干渉,口出し,妨害《+『with』+『名』》 / 〈U〉〈C〉(ラジオ・テレビの)混信;(光波・音波などの)干渉 / 〈U〉(一般のスポーツで)妨害行為
