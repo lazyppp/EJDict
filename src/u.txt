@@ -527,7 +527,7 @@ United Kingdom	『イギリス連合王国』(英本国のこと;大ブリテン
 United Nations	『国際連合』(1945年 San Francisco において世界50か国の共同署名により発足した国際的連盟で,かつての国際連盟(the League of Nations)に代わる新たな機関;本部は New York 市にある;《略》UN,U.N.)
 United States [of America]	『アメリカ合衆国』,米国
 unitize, unitise	…‘を'一つ[の単位]にまとめる,単一体(統一体)にする
-unity	{U}『単一性,統一性』;〈C〉単一体,統一体 / 〈C〉{U}(古典劇構成での)一致 / {U}(…との)『協調』,調和《+with+名》
+unity	〈U〉『単一性,統一性』;〈C〉単一体,統一体 / 〈C〉〈U〉(古典劇構成での)一致 / 〈U〉(…との)『協調』,調和《+with+名》
 univ.	universal / university
 Univ.	University
 univalent	(化学で)一価の
