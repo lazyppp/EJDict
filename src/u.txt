@@ -527,7 +527,7 @@ United Kingdom	『イギリス連合王国』(英本国のこと;大ブリテン
 United Nations	『国際連合』(1945年 San Francisco において世界50か国の共同署名により発足した国際的連盟で,かつての国際連盟(the League of Nations)に代わる新たな機関;本部は New York 市にある;《略》UN,U.N.)
 United States [of America]	『アメリカ合衆国』,米国
 unitize, unitise	…‘を'一つ[の単位]にまとめる,単一体(統一体)にする
-unity	{U}『単一性,統一性』;{C}単一体,統一体 / {C}{U}(古典劇構成での)一致 / {U}(…との)『協調』,調和《+with+名》
+unity	{U}『単一性,統一性』;〈C〉単一体,統一体 / 〈C〉{U}(古典劇構成での)一致 / {U}(…との)『協調』,調和《+with+名》
 univ.	universal / university
 Univ.	University
 univalent	(化学で)一価の
@@ -539,8 +539,8 @@ universalist	普遍主義者 / 《Universalist》ユニバーサリスト(万人
 universality	普遍性,一般性
 universalize, universalise	…‘を'一般化する,普遍化する
 universally	いたる所に(で);一般に
-universe	《the universe,時に the Universe》『宇宙』(cosmos);森羅万象;[全]人類(humankind) / {C}世界,領域,分野
-university	{C}『[総合]大学』 / 〈U〉《the university》《集合的に》大学生,大学当局
+universe	《the universe,時に the Universe》『宇宙』(cosmos);森羅万象;[全]人類(humankind) / 〈C〉世界,領域,分野
+university	〈C〉『[総合]大学』 / 〈U〉《the university》《集合的に》大学生,大学当局
 unjust	『不正な』;不公平な,不当な
 unjustly	不正に;不公平に
 unkempt	(髪が)くしを入れてない,もじゃもじゃの / (服装・外見などが)だらしがない

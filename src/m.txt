@@ -279,7 +279,7 @@ malevolence	悪意,敵意
 malevolent	悪意(敵意)のある,意地の悪い;(…に)意地の悪い《+『to』(『toward』)+『名』》
 malfeasance	違法行為;(特に官公吏の)不法行為
 malfeasant	違法の,不法の
-malformation	(特に生物体の)奇形;{C}奇形部分
+malformation	(特に生物体の)奇形;〈C〉奇形部分
 malformed	奇形の
 malfunction	(器官・機械などの)機能不全,不調 / 〈器官,機械などが〉機能不全である
 malice	(…に対する)(強い)悪意,敵意,恨み《+『to』+(『toward』)+『名』》
