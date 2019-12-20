@@ -1395,7 +1395,6 @@ analogue, analog	類似物,相似物
 analogue computer	アナログ計算機(数量を長さ・電圧などにかえて表現する)
 analogy	(…間の)類似《+『between』+『名』》,(…との)類似《+『to』(『with』)+『名』》 / (論理・言語などの)類推
 analysand	精神分析を受けている患者
-analyse	=analyze
 analysis	(内容・状況などの)『分析』,分解;(詳細な)検討 / (化学・物理で)分析;《米》(心理学で)[精神]分析;(数学で)解析
 analyst	(状況などの)分析者,解説者 / (科学・経済・政治の)分析者 / 《米》精神分析家(医)(psychoanalyst)
 analytic, analytical	分析的な,分解的な,解析的
