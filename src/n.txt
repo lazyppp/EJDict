@@ -14,7 +14,7 @@ N.J.,NJ	New Jersey
 N.M.,NM,N.Mex.	New Mexico
 N,n	英語アルファベットの第14字(子音字) / N字型のもの / 《n》不定整数
 N,N.	North; Northern
-n.p.	no pagination ページを付けずに・no place of publication 発行地名を付けずに・(また『N.P』)no protest(手形で)拒絶証書不要
+n.p.	no pagination ページを付けずに / no place of publication 発行地名を付けずに / (また『N.P』)no protest(手形で)拒絶証書不要
 n.s.	not specified 明記されずに
 N.S.	Nova Scotia / New Style
 N.T.P.	normal temperature and pressure 平常体温ならびに血圧
