@@ -317,7 +317,7 @@ water vapor	水蒸気
 water vole	(水辺に住む)ハタネズミの総称 / ニオイネズミ
 water wagon	=water cart
 water wings	(水泳練習用の)翼形浮き袋
-water witch	水脈をdowsing rod（占い棒）などによって見つける人：「大学の地質学者に頼んでもたいしたことはないけれど、water witchなら必ず水脈を見つけてくれる」とNew Mexico州の人から聞きました/水探知機、水中に住む魔女
+water witch	水脈をdowsing rod（占い棒）などによって見つける人(「大学の地質学者に頼んでもたいしたことはないけれど、water witchなら必ず水脈を見つけてくれる」とNew Mexico州の人から聞きました) / 水探知機、水中に住む魔女
 water-repellent	(防水でなく)撥水加工の,水をはじく加工の
 water-resistant	(完全防水でなく)耐水の
 water-skiing	水上スキー
