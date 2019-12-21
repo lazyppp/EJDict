@@ -2807,9 +2807,7 @@ by-and-by	未来
 by-election	補欠選挙
 bye	二の次の事(物) / 付随的な,副次的な
 bye	バイ(クリケットで打者が打たない球が守備者を通り越した場合の得点)
-bye byes	《幼児語》ねんね
-bye-bye	《小児語》ねんね
-bye-bye	《おもに小児・女性語》バイバイ
+bye-bye	《小児語》ねんね / 《おもに小児・女性語》バイバイ
 Byelorussia	白ロシア共和国(公式名Byelorussian Soviet Socialist Republic)
 bygone	過ぎ去った(past) / 既往の事,過去
 bylaw	(協会・団体・会社などの)内規,付則,細則
