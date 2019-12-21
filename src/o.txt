@@ -6,7 +6,7 @@ O'	ofの短縮形
 O.D.	Doctor of Optometry 検眼医
 O Level	普通課程(中等学校終了資格試験(G.C.E.)の15‐16歳の課程)
 O,o	アルファベット第15字 / O字形[のもの] / (数学で)ゼロ(zero)
-O.P.	observation post [弾着]監視所・Order of Preachersドミニコ修道会・(またo.p.)out of print絶版になって・opposite prompt(舞台の)上手(かみて)
+O.P.	observation post [弾着]監視所 / Order of Preachersドミニコ修道会・(またo.p.)out of print絶版になって / opposite prompt(舞台の)上手(かみて)
 O.S.	oculus sinister(ラテン語)左目
 O.S.F.	Order of St.Francisフランシスコ修道会
 o'clock	《時間を表す数と共に》…『時』(じ) / (自分の位置を時計の文字盤の中央に置いて)…時の位置(方角)に
@@ -174,7 +174,7 @@ oceanologist	海洋学者,海洋研究家
 oceanology	海洋学,海洋研究
 ocelot	オセロット(はん点のある中型のヤマネコ;中・南米産)
 ocher, ochre	黄土(おうど)(絵の具の原料となる黄色の土) / オーカー色,黄土色 / オーカー色の,黄土色の
-OCR	～をOCR処理する、～をスキャナで読み込んでデジタル化する・= optical character reader 光学式文字読取装置・= optical character recognition 光学式文字認識
+OCR	～をOCR処理する,～をスキャナで読み込んでデジタル化する / = optical character reader 光学式文字読取装置 / = optical character recognition 光学式文字認識
 OCS	officer candidate school(軍の)幹部候補生学校
 oct.	octavo
 Oct.	October
